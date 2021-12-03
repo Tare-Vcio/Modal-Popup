@@ -49,6 +49,10 @@ body {
     animation: modalShow 0.3s linear;
 }
 
+.modal__inner i {
+    cursor: pointer;
+}
+
 .modal__header {
     display: flex;
     justify-content: space-between;
